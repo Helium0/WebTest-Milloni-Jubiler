@@ -8,8 +8,10 @@
   ![Imgur](https://i.imgur.com/L2tWboc.png) 
 
   Na urządzeniach mobilnych wygląda to trochę inaczej. Zdjęcie znajduje się na górze.
+  
   ![Imgur](https://i.imgur.com/i5RmB4F.png)
 
   Rozwiązaniem tego problemu jest poprawa zdjęć na odpowiednią rozdzielczość.
+  Jest to poprawa kosmetyczna i dotyczy bardziej sektora UI a znaleziony błąd ma niski wpływ na produkt.
 
 
