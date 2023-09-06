@@ -1,7 +1,3 @@
-# Jest to mój pierwszy projekt. Opisuję tutaj znalezione błędy i wstawiam screeny wraz z krótkim komentarzem na zdjęciu.
-
-
-### Po wejściu na stronę i spędzeniu na niej kilku sekund zauważyłem już błąd
 
 * Zdjęcia produktów posiadają inną rozdzielczość
   
