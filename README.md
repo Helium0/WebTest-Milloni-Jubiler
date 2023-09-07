@@ -7,6 +7,7 @@ Testowanie strony Milloni Jubiler
 
 Testowanie strony odbyło się w dużej mierze techniką opartą na doświadczeniu. Wszystkie błędy oraz niezbędne informacje zostały wysłane do właścicielki produktu.
 Testy robiłem dobrowolnie, nie posiadałem żadnej dokumentacji oraz innych wytycznych związanych z testowaniem danej strony internetowej.
+Wzór scenariuszy testowych jest dowolny i może być zmieniony zależnie  od polityki wewnętrznej firmy lub organizacji dla których przeprowadzamy testy lub jesteśmy zatrudnieni.
 
 Techniki jakie zostały użyte do testowania to:
 - oparta na doświadczeniu
