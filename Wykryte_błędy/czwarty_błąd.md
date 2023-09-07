@@ -12,7 +12,5 @@
 
     ![Imgur](https://i.imgur.com/NnFgN8S.png)
 
-    Ryzyko produktowe jest wysokie, wyobraśmy sobie, że jakiś haker będzie dokonywał zakupów aby wyprać pieniądze. Takie błędy należy naprawić w pierwszej kolejności aby uniknąć przykrych sytuacji.
-
     Aby zbadać dokładną ilość przy której możemy dokonać płatności trzeba zastosować technikę analizy brzegowej.
 
