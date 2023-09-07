@@ -1,0 +1,1 @@
+Zgłoszenia błędów będę realizować za pomocą Bitbucket w JIRA aby utrwalić i poćwiczyć praktycznie swoją wiedzę.
