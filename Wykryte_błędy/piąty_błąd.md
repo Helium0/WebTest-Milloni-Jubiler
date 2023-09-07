@@ -4,7 +4,7 @@
 
     ![Imgur](https://i.imgur.com/uAvtQqi.png)
 
-* Również brakuje odstępu pomiędzy trzecim a czwartym słowem. Dla
+* Także brakuje odstępu pomiędzy trzecim a czwartym słowem. Dla
     leszpego wizerunku można by się pokusić o odpowiednie wcięcia i drugie zdanie zacząć od nowej linii. Na urządzeniach mobilnych wygląda to niezbyt profesjonalnie.
 
     ![Imgur](https://i.imgur.com/VKZYxFl.png)
