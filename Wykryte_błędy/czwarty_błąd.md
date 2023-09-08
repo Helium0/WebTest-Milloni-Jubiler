@@ -12,5 +12,5 @@
 
     ![Imgur](https://i.imgur.com/NnFgN8S.png)
 
-    Aby zbadać dokładną ilość przy której możemy dokonać płatności trzeba zastosować technikę analizy brzegowej.
+    Aby zbadać dokładną ilość przy której możemy dokonać płatności trzeba zastosować technikę analizy wartości brzegowych
 
